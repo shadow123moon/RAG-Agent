@@ -1,4 +1,4 @@
-# PaiSmart RAG Agent
+#  RAG Agent
 
 这是一个面向知识库问答场景的 Java + Python RAG 学习项目，主要用于练习后端工程、文档上传解析、异步任务处理、向量检索和大模型问答链路。
 
